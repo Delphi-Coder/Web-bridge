@@ -36,7 +36,7 @@ Other file types will prompt the browser to download the file.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/webbridge.git
+git clone https://github.com/delphi_coder/webbridge.git
 cd webbridge
 ```
 
@@ -198,7 +198,7 @@ MIT License
 ```
 MIT License
 
-Copyright (c) 2023 [Your Name]
+Copyright (c) 2024 Mohammad Samadpour
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -207,7 +207,16 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-[... Full text of the MIT License ...]
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 ```
 
 ## Contributing
@@ -216,11 +225,9 @@ Contributions are welcome! Feel free to submit issues or pull requests on GitHub
 
 ## Contact
 
-For questions or suggestions, please contact [Your Name] at [your.email@example.com].
+For questions or suggestions, please contact me at delphi_coder at yahoo.com.
 
 ---
-
-**Note:** Replace `[Your Name]`, `[Year]`, and `[your.email@example.com]` with your actual name, the current year, and your email address, respectively.
 
 ## Additional Information
 
