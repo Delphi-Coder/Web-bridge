@@ -36,8 +36,8 @@ Other file types will prompt the browser to download the file.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/delphi_coder/webbridge.git
-cd webbridge
+git clone https://github.com/Delphi-Coder/Web-bridge.git
+cd Web-bridge
 ```
 
 ### Build the Program
